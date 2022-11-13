@@ -9,7 +9,6 @@ const Testimonials = () => {
       id="clients"
       className={`${styles.paddingY} ${styles.flexCenter} relative flex-col`}
     >
-      <div className="blue__gradient absolute -right-[50%] z-[0] h-[60%] w-[60%] rounded-full" />
       <div className="relative z-[1] mb-6 flex w-full flex-col items-center justify-between sm:mb-16 md:flex-row">
         <h1 className={styles.heading2}>
           What people are <br className="hidden sm:block" />
